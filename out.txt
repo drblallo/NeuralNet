@@ -1,0 +1,6014 @@
+created a neuron
+created a neuron
+created a neuron
+1 neurons
+created a neuron
+created a neuron
+created a neuron
+created a neuron
+created a neuron
+2 neurons
+created a neuron
+created a neuron
+3 neurons
+iteration: 0
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1
+feed: 1, 0
+expected: 0, got: 0
+iteration: 2
+feed: 1, 0
+expected: 0, got: 0
+iteration: 3
+feed: 0, 1
+expected: 0, got: 0
+iteration: 4
+feed: 1, 1
+expected: 1, got: 0
+iteration: 5
+feed: 0, 1
+expected: 0, got: 0
+iteration: 6
+feed: 1, 0
+expected: 0, got: 0
+iteration: 7
+feed: 0, 1
+expected: 0, got: 0
+iteration: 8
+feed: 1, 0
+expected: 0, got: 0
+iteration: 9
+feed: 0, 0
+expected: 0, got: 0
+iteration: 10
+feed: 0, 1
+expected: 0, got: 0
+iteration: 11
+feed: 1, 1
+expected: 1, got: 0
+iteration: 12
+feed: 1, 1
+expected: 1, got: 0
+iteration: 13
+feed: 0, 1
+expected: 0, got: 0
+iteration: 14
+feed: 0, 1
+expected: 0, got: 0
+iteration: 15
+feed: 1, 1
+expected: 1, got: 0
+iteration: 16
+feed: 0, 0
+expected: 0, got: 0
+iteration: 17
+feed: 1, 0
+expected: 0, got: 0
+iteration: 18
+feed: 1, 1
+expected: 1, got: 0
+iteration: 19
+feed: 1, 0
+expected: 0, got: 0
+iteration: 20
+feed: 0, 1
+expected: 0, got: 0
+iteration: 21
+feed: 1, 1
+expected: 1, got: 0
+iteration: 22
+feed: 1, 0
+expected: 0, got: 0
+iteration: 23
+feed: 1, 1
+expected: 1, got: 0
+iteration: 24
+feed: 0, 0
+expected: 0, got: 0
+iteration: 25
+feed: 1, 0
+expected: 0, got: 0
+iteration: 26
+feed: 0, 0
+expected: 0, got: 0
+iteration: 27
+feed: 0, 0
+expected: 0, got: 0
+iteration: 28
+feed: 0, 1
+expected: 0, got: 0
+iteration: 29
+feed: 1, 0
+expected: 0, got: 0
+iteration: 30
+feed: 1, 1
+expected: 1, got: 0
+iteration: 31
+feed: 1, 0
+expected: 0, got: 0
+iteration: 32
+feed: 1, 0
+expected: 0, got: 0
+iteration: 33
+feed: 0, 0
+expected: 0, got: 0
+iteration: 34
+feed: 1, 0
+expected: 0, got: 0
+iteration: 35
+feed: 1, 0
+expected: 0, got: 0
+iteration: 36
+feed: 0, 1
+expected: 0, got: 0
+iteration: 37
+feed: 1, 0
+expected: 0, got: 0
+iteration: 38
+feed: 1, 0
+expected: 0, got: 0
+iteration: 39
+feed: 1, 1
+expected: 1, got: 0
+iteration: 40
+feed: 1, 0
+expected: 0, got: 0
+iteration: 41
+feed: 0, 1
+expected: 0, got: 0
+iteration: 42
+feed: 1, 1
+expected: 1, got: 0
+iteration: 43
+feed: 1, 1
+expected: 1, got: 0
+iteration: 44
+feed: 1, 1
+expected: 1, got: 0
+iteration: 45
+feed: 0, 0
+expected: 0, got: 0
+iteration: 46
+feed: 0, 1
+expected: 0, got: 0
+iteration: 47
+feed: 1, 1
+expected: 1, got: 0
+iteration: 48
+feed: 0, 1
+expected: 0, got: 0
+iteration: 49
+feed: 0, 0
+expected: 0, got: 0
+iteration: 50
+feed: 1, 0
+expected: 0, got: 0
+iteration: 51
+feed: 0, 0
+expected: 0, got: 0
+iteration: 52
+feed: 0, 1
+expected: 0, got: 0
+iteration: 53
+feed: 1, 0
+expected: 0, got: 0
+iteration: 54
+feed: 1, 0
+expected: 0, got: 0
+iteration: 55
+feed: 1, 1
+expected: 1, got: 0
+iteration: 56
+feed: 1, 1
+expected: 1, got: 0
+iteration: 57
+feed: 1, 1
+expected: 1, got: 0
+iteration: 58
+feed: 0, 0
+expected: 0, got: 0
+iteration: 59
+feed: 1, 0
+expected: 0, got: 0
+iteration: 60
+feed: 0, 0
+expected: 0, got: 0
+iteration: 61
+feed: 0, 0
+expected: 0, got: 0
+iteration: 62
+feed: 0, 1
+expected: 0, got: 0
+iteration: 63
+feed: 1, 0
+expected: 0, got: 0
+iteration: 64
+feed: 0, 0
+expected: 0, got: 0
+iteration: 65
+feed: 1, 1
+expected: 1, got: 0
+iteration: 66
+feed: 0, 1
+expected: 0, got: 0
+iteration: 67
+feed: 0, 0
+expected: 0, got: 0
+iteration: 68
+feed: 0, 0
+expected: 0, got: 0
+iteration: 69
+feed: 1, 1
+expected: 1, got: 0
+iteration: 70
+feed: 1, 1
+expected: 1, got: 0
+iteration: 71
+feed: 1, 0
+expected: 0, got: 0
+iteration: 72
+feed: 1, 0
+expected: 0, got: 0
+iteration: 73
+feed: 0, 1
+expected: 0, got: 0
+iteration: 74
+feed: 0, 0
+expected: 0, got: 0
+iteration: 75
+feed: 0, 1
+expected: 0, got: 0
+iteration: 76
+feed: 0, 0
+expected: 0, got: 0
+iteration: 77
+feed: 0, 1
+expected: 0, got: 0
+iteration: 78
+feed: 0, 1
+expected: 0, got: 0
+iteration: 79
+feed: 1, 1
+expected: 1, got: 0
+iteration: 80
+feed: 0, 0
+expected: 0, got: 0
+iteration: 81
+feed: 0, 0
+expected: 0, got: 0
+iteration: 82
+feed: 0, 1
+expected: 0, got: 0
+iteration: 83
+feed: 0, 0
+expected: 0, got: 0
+iteration: 84
+feed: 1, 0
+expected: 0, got: 0
+iteration: 85
+feed: 0, 1
+expected: 0, got: 0
+iteration: 86
+feed: 0, 0
+expected: 0, got: 0
+iteration: 87
+feed: 0, 0
+expected: 0, got: 0
+iteration: 88
+feed: 0, 0
+expected: 0, got: 0
+iteration: 89
+feed: 1, 0
+expected: 0, got: 0
+iteration: 90
+feed: 0, 0
+expected: 0, got: 0
+iteration: 91
+feed: 1, 1
+expected: 1, got: 0
+iteration: 92
+feed: 1, 0
+expected: 0, got: 0
+iteration: 93
+feed: 1, 1
+expected: 1, got: 0
+iteration: 94
+feed: 0, 1
+expected: 0, got: 0
+iteration: 95
+feed: 0, 1
+expected: 0, got: 0
+iteration: 96
+feed: 1, 1
+expected: 1, got: 0
+iteration: 97
+feed: 1, 0
+expected: 0, got: 0
+iteration: 98
+feed: 1, 1
+expected: 1, got: 0
+iteration: 99
+feed: 0, 1
+expected: 0, got: 0
+iteration: 100
+feed: 1, 1
+expected: 1, got: 0
+iteration: 101
+feed: 1, 1
+expected: 1, got: 0
+iteration: 102
+feed: 1, 0
+expected: 0, got: 0
+iteration: 103
+feed: 1, 1
+expected: 1, got: 0
+iteration: 104
+feed: 0, 0
+expected: 0, got: 0
+iteration: 105
+feed: 1, 1
+expected: 1, got: 0
+iteration: 106
+feed: 0, 1
+expected: 0, got: 0
+iteration: 107
+feed: 1, 1
+expected: 1, got: 0
+iteration: 108
+feed: 1, 1
+expected: 1, got: 0
+iteration: 109
+feed: 1, 0
+expected: 0, got: 0
+iteration: 110
+feed: 1, 1
+expected: 1, got: 0
+iteration: 111
+feed: 0, 0
+expected: 0, got: 0
+iteration: 112
+feed: 1, 0
+expected: 0, got: 0
+iteration: 113
+feed: 1, 1
+expected: 1, got: 0
+iteration: 114
+feed: 0, 1
+expected: 0, got: 0
+iteration: 115
+feed: 1, 1
+expected: 1, got: 0
+iteration: 116
+feed: 1, 0
+expected: 0, got: 0
+iteration: 117
+feed: 0, 1
+expected: 0, got: 0
+iteration: 118
+feed: 0, 0
+expected: 0, got: 0
+iteration: 119
+feed: 0, 1
+expected: 0, got: 0
+iteration: 120
+feed: 1, 0
+expected: 0, got: 0
+iteration: 121
+feed: 0, 1
+expected: 0, got: 0
+iteration: 122
+feed: 0, 0
+expected: 0, got: 0
+iteration: 123
+feed: 1, 0
+expected: 0, got: 0
+iteration: 124
+feed: 1, 1
+expected: 1, got: 0
+iteration: 125
+feed: 0, 0
+expected: 0, got: 0
+iteration: 126
+feed: 1, 1
+expected: 1, got: 0
+iteration: 127
+feed: 0, 0
+expected: 0, got: 0
+iteration: 128
+feed: 1, 1
+expected: 1, got: 0
+iteration: 129
+feed: 0, 1
+expected: 0, got: 0
+iteration: 130
+feed: 1, 1
+expected: 1, got: 0
+iteration: 131
+feed: 0, 0
+expected: 0, got: 0
+iteration: 132
+feed: 1, 1
+expected: 1, got: 0
+iteration: 133
+feed: 0, 0
+expected: 0, got: 0
+iteration: 134
+feed: 0, 0
+expected: 0, got: 0
+iteration: 135
+feed: 1, 1
+expected: 1, got: 0
+iteration: 136
+feed: 0, 0
+expected: 0, got: 0
+iteration: 137
+feed: 1, 0
+expected: 0, got: 0
+iteration: 138
+feed: 1, 1
+expected: 1, got: 0
+iteration: 139
+feed: 0, 0
+expected: 0, got: 0
+iteration: 140
+feed: 0, 0
+expected: 0, got: 0
+iteration: 141
+feed: 0, 1
+expected: 0, got: 0
+iteration: 142
+feed: 0, 1
+expected: 0, got: 0
+iteration: 143
+feed: 0, 0
+expected: 0, got: 0
+iteration: 144
+feed: 1, 0
+expected: 0, got: 0
+iteration: 145
+feed: 1, 0
+expected: 0, got: 0
+iteration: 146
+feed: 1, 0
+expected: 0, got: 0
+iteration: 147
+feed: 0, 0
+expected: 0, got: 0
+iteration: 148
+feed: 0, 1
+expected: 0, got: 0
+iteration: 149
+feed: 1, 1
+expected: 1, got: 0
+iteration: 150
+feed: 1, 1
+expected: 1, got: 0
+iteration: 151
+feed: 1, 1
+expected: 1, got: 0
+iteration: 152
+feed: 0, 1
+expected: 0, got: 0
+iteration: 153
+feed: 0, 0
+expected: 0, got: 0
+iteration: 154
+feed: 1, 0
+expected: 0, got: 0
+iteration: 155
+feed: 1, 1
+expected: 1, got: 0
+iteration: 156
+feed: 1, 1
+expected: 1, got: 0
+iteration: 157
+feed: 0, 1
+expected: 0, got: 0
+iteration: 158
+feed: 0, 0
+expected: 0, got: 0
+iteration: 159
+feed: 0, 1
+expected: 0, got: 0
+iteration: 160
+feed: 1, 1
+expected: 1, got: 0
+iteration: 161
+feed: 1, 0
+expected: 0, got: 0
+iteration: 162
+feed: 0, 1
+expected: 0, got: 0
+iteration: 163
+feed: 0, 1
+expected: 0, got: 0
+iteration: 164
+feed: 1, 0
+expected: 0, got: 0
+iteration: 165
+feed: 0, 0
+expected: 0, got: 0
+iteration: 166
+feed: 0, 0
+expected: 0, got: 0
+iteration: 167
+feed: 0, 0
+expected: 0, got: 0
+iteration: 168
+feed: 0, 0
+expected: 0, got: 0
+iteration: 169
+feed: 0, 0
+expected: 0, got: 0
+iteration: 170
+feed: 1, 1
+expected: 1, got: 0
+iteration: 171
+feed: 1, 1
+expected: 1, got: 0
+iteration: 172
+feed: 1, 1
+expected: 1, got: 0
+iteration: 173
+feed: 0, 1
+expected: 0, got: 0
+iteration: 174
+feed: 0, 0
+expected: 0, got: 0
+iteration: 175
+feed: 1, 1
+expected: 1, got: 0
+iteration: 176
+feed: 0, 1
+expected: 0, got: 0
+iteration: 177
+feed: 1, 0
+expected: 0, got: 0
+iteration: 178
+feed: 1, 0
+expected: 0, got: 0
+iteration: 179
+feed: 1, 1
+expected: 1, got: 0
+iteration: 180
+feed: 1, 0
+expected: 0, got: 0
+iteration: 181
+feed: 0, 1
+expected: 0, got: 0
+iteration: 182
+feed: 1, 1
+expected: 1, got: 0
+iteration: 183
+feed: 0, 1
+expected: 0, got: 0
+iteration: 184
+feed: 0, 1
+expected: 0, got: 0
+iteration: 185
+feed: 1, 0
+expected: 0, got: 0
+iteration: 186
+feed: 1, 0
+expected: 0, got: 0
+iteration: 187
+feed: 0, 1
+expected: 0, got: 0
+iteration: 188
+feed: 1, 0
+expected: 0, got: 0
+iteration: 189
+feed: 1, 1
+expected: 1, got: 0
+iteration: 190
+feed: 1, 1
+expected: 1, got: 0
+iteration: 191
+feed: 0, 1
+expected: 0, got: 0
+iteration: 192
+feed: 0, 0
+expected: 0, got: 0
+iteration: 193
+feed: 0, 0
+expected: 0, got: 0
+iteration: 194
+feed: 0, 1
+expected: 0, got: 0
+iteration: 195
+feed: 1, 1
+expected: 1, got: 0
+iteration: 196
+feed: 0, 0
+expected: 0, got: 0
+iteration: 197
+feed: 1, 1
+expected: 1, got: 0
+iteration: 198
+feed: 0, 1
+expected: 0, got: 0
+iteration: 199
+feed: 0, 0
+expected: 0, got: 0
+iteration: 200
+feed: 0, 1
+expected: 0, got: 0
+iteration: 201
+feed: 1, 1
+expected: 1, got: 0
+iteration: 202
+feed: 1, 0
+expected: 0, got: 0
+iteration: 203
+feed: 1, 0
+expected: 0, got: 0
+iteration: 204
+feed: 1, 0
+expected: 0, got: 0
+iteration: 205
+feed: 0, 0
+expected: 0, got: 0
+iteration: 206
+feed: 1, 1
+expected: 1, got: 0
+iteration: 207
+feed: 0, 0
+expected: 0, got: 0
+iteration: 208
+feed: 0, 0
+expected: 0, got: 0
+iteration: 209
+feed: 1, 0
+expected: 0, got: 0
+iteration: 210
+feed: 0, 0
+expected: 0, got: 0
+iteration: 211
+feed: 0, 1
+expected: 0, got: 0
+iteration: 212
+feed: 0, 0
+expected: 0, got: 0
+iteration: 213
+feed: 0, 1
+expected: 0, got: 0
+iteration: 214
+feed: 1, 1
+expected: 1, got: 0
+iteration: 215
+feed: 1, 0
+expected: 0, got: 0
+iteration: 216
+feed: 0, 1
+expected: 0, got: 0
+iteration: 217
+feed: 1, 0
+expected: 0, got: 0
+iteration: 218
+feed: 1, 0
+expected: 0, got: 0
+iteration: 219
+feed: 0, 0
+expected: 0, got: 0
+iteration: 220
+feed: 1, 1
+expected: 1, got: 0
+iteration: 221
+feed: 1, 1
+expected: 1, got: 0
+iteration: 222
+feed: 0, 0
+expected: 0, got: 0
+iteration: 223
+feed: 1, 0
+expected: 0, got: 0
+iteration: 224
+feed: 0, 1
+expected: 0, got: 0
+iteration: 225
+feed: 1, 0
+expected: 0, got: 0
+iteration: 226
+feed: 1, 1
+expected: 1, got: 0
+iteration: 227
+feed: 0, 1
+expected: 0, got: 0
+iteration: 228
+feed: 1, 0
+expected: 0, got: 0
+iteration: 229
+feed: 0, 0
+expected: 0, got: 0
+iteration: 230
+feed: 1, 1
+expected: 1, got: 0
+iteration: 231
+feed: 0, 1
+expected: 0, got: 0
+iteration: 232
+feed: 1, 0
+expected: 0, got: 0
+iteration: 233
+feed: 0, 1
+expected: 0, got: 0
+iteration: 234
+feed: 0, 0
+expected: 0, got: 0
+iteration: 235
+feed: 0, 1
+expected: 0, got: 0
+iteration: 236
+feed: 0, 0
+expected: 0, got: 0
+iteration: 237
+feed: 1, 0
+expected: 0, got: 0
+iteration: 238
+feed: 0, 1
+expected: 0, got: 0
+iteration: 239
+feed: 0, 1
+expected: 0, got: 0
+iteration: 240
+feed: 0, 1
+expected: 0, got: 0
+iteration: 241
+feed: 0, 0
+expected: 0, got: 0
+iteration: 242
+feed: 0, 1
+expected: 0, got: 0
+iteration: 243
+feed: 1, 0
+expected: 0, got: 0
+iteration: 244
+feed: 0, 1
+expected: 0, got: 0
+iteration: 245
+feed: 0, 1
+expected: 0, got: 0
+iteration: 246
+feed: 1, 1
+expected: 1, got: 0
+iteration: 247
+feed: 1, 0
+expected: 0, got: 0
+iteration: 248
+feed: 0, 0
+expected: 0, got: 0
+iteration: 249
+feed: 1, 1
+expected: 1, got: 0
+iteration: 250
+feed: 1, 0
+expected: 0, got: 0
+iteration: 251
+feed: 0, 0
+expected: 0, got: 0
+iteration: 252
+feed: 1, 0
+expected: 0, got: 0
+iteration: 253
+feed: 1, 0
+expected: 0, got: 0
+iteration: 254
+feed: 0, 1
+expected: 0, got: 0
+iteration: 255
+feed: 0, 1
+expected: 0, got: 0
+iteration: 256
+feed: 0, 1
+expected: 0, got: 0
+iteration: 257
+feed: 1, 0
+expected: 0, got: 0
+iteration: 258
+feed: 1, 1
+expected: 1, got: 0
+iteration: 259
+feed: 0, 0
+expected: 0, got: 0
+iteration: 260
+feed: 0, 1
+expected: 0, got: 0
+iteration: 261
+feed: 1, 0
+expected: 0, got: 0
+iteration: 262
+feed: 0, 1
+expected: 0, got: 0
+iteration: 263
+feed: 0, 0
+expected: 0, got: 0
+iteration: 264
+feed: 0, 1
+expected: 0, got: 0
+iteration: 265
+feed: 0, 0
+expected: 0, got: 0
+iteration: 266
+feed: 0, 1
+expected: 0, got: 0
+iteration: 267
+feed: 1, 0
+expected: 0, got: 0
+iteration: 268
+feed: 0, 0
+expected: 0, got: 0
+iteration: 269
+feed: 1, 0
+expected: 0, got: 0
+iteration: 270
+feed: 1, 0
+expected: 0, got: 0
+iteration: 271
+feed: 1, 0
+expected: 0, got: 0
+iteration: 272
+feed: 0, 0
+expected: 0, got: 0
+iteration: 273
+feed: 1, 1
+expected: 1, got: 0
+iteration: 274
+feed: 1, 1
+expected: 1, got: 0
+iteration: 275
+feed: 1, 1
+expected: 1, got: 0
+iteration: 276
+feed: 0, 1
+expected: 0, got: 0
+iteration: 277
+feed: 1, 0
+expected: 0, got: 0
+iteration: 278
+feed: 1, 0
+expected: 0, got: 0
+iteration: 279
+feed: 0, 0
+expected: 0, got: 0
+iteration: 280
+feed: 0, 0
+expected: 0, got: 0
+iteration: 281
+feed: 0, 0
+expected: 0, got: 0
+iteration: 282
+feed: 0, 0
+expected: 0, got: 0
+iteration: 283
+feed: 1, 1
+expected: 1, got: 0
+iteration: 284
+feed: 1, 1
+expected: 1, got: 0
+iteration: 285
+feed: 0, 1
+expected: 0, got: 0
+iteration: 286
+feed: 0, 0
+expected: 0, got: 0
+iteration: 287
+feed: 0, 0
+expected: 0, got: 0
+iteration: 288
+feed: 0, 1
+expected: 0, got: 0
+iteration: 289
+feed: 0, 0
+expected: 0, got: 0
+iteration: 290
+feed: 0, 1
+expected: 0, got: 0
+iteration: 291
+feed: 0, 0
+expected: 0, got: 0
+iteration: 292
+feed: 1, 0
+expected: 0, got: 0
+iteration: 293
+feed: 1, 1
+expected: 1, got: 0
+iteration: 294
+feed: 0, 1
+expected: 0, got: 0
+iteration: 295
+feed: 0, 0
+expected: 0, got: 0
+iteration: 296
+feed: 0, 1
+expected: 0, got: 0
+iteration: 297
+feed: 1, 1
+expected: 1, got: 0
+iteration: 298
+feed: 1, 0
+expected: 0, got: 0
+iteration: 299
+feed: 1, 1
+expected: 1, got: 0
+iteration: 300
+feed: 0, 0
+expected: 0, got: 0
+iteration: 301
+feed: 0, 1
+expected: 0, got: 0
+iteration: 302
+feed: 0, 1
+expected: 0, got: 0
+iteration: 303
+feed: 1, 0
+expected: 0, got: 0
+iteration: 304
+feed: 0, 0
+expected: 0, got: 0
+iteration: 305
+feed: 1, 1
+expected: 1, got: 0
+iteration: 306
+feed: 0, 0
+expected: 0, got: 0
+iteration: 307
+feed: 1, 0
+expected: 0, got: 0
+iteration: 308
+feed: 0, 0
+expected: 0, got: 0
+iteration: 309
+feed: 0, 0
+expected: 0, got: 0
+iteration: 310
+feed: 1, 1
+expected: 1, got: 0
+iteration: 311
+feed: 0, 0
+expected: 0, got: 0
+iteration: 312
+feed: 1, 0
+expected: 0, got: 0
+iteration: 313
+feed: 1, 1
+expected: 1, got: 0
+iteration: 314
+feed: 1, 0
+expected: 0, got: 0
+iteration: 315
+feed: 0, 1
+expected: 0, got: 0
+iteration: 316
+feed: 0, 0
+expected: 0, got: 0
+iteration: 317
+feed: 1, 1
+expected: 1, got: 0
+iteration: 318
+feed: 1, 1
+expected: 1, got: 0
+iteration: 319
+feed: 0, 0
+expected: 0, got: 0
+iteration: 320
+feed: 1, 1
+expected: 1, got: 0
+iteration: 321
+feed: 0, 1
+expected: 0, got: 0
+iteration: 322
+feed: 1, 1
+expected: 1, got: 0
+iteration: 323
+feed: 1, 1
+expected: 1, got: 0
+iteration: 324
+feed: 0, 1
+expected: 0, got: 0
+iteration: 325
+feed: 1, 0
+expected: 0, got: 0
+iteration: 326
+feed: 0, 0
+expected: 0, got: 0
+iteration: 327
+feed: 0, 0
+expected: 0, got: 0
+iteration: 328
+feed: 1, 0
+expected: 0, got: 0
+iteration: 329
+feed: 1, 1
+expected: 1, got: 0
+iteration: 330
+feed: 1, 1
+expected: 1, got: 0
+iteration: 331
+feed: 1, 1
+expected: 1, got: 0
+iteration: 332
+feed: 0, 0
+expected: 0, got: 0
+iteration: 333
+feed: 1, 0
+expected: 0, got: 0
+iteration: 334
+feed: 0, 0
+expected: 0, got: 0
+iteration: 335
+feed: 1, 0
+expected: 0, got: 0
+iteration: 336
+feed: 0, 1
+expected: 0, got: 0
+iteration: 337
+feed: 0, 0
+expected: 0, got: 0
+iteration: 338
+feed: 1, 1
+expected: 1, got: 0
+iteration: 339
+feed: 1, 0
+expected: 0, got: 0
+iteration: 340
+feed: 1, 1
+expected: 1, got: 0
+iteration: 341
+feed: 1, 0
+expected: 0, got: 0
+iteration: 342
+feed: 1, 1
+expected: 1, got: 0
+iteration: 343
+feed: 1, 1
+expected: 1, got: 0
+iteration: 344
+feed: 1, 1
+expected: 1, got: 0
+iteration: 345
+feed: 0, 0
+expected: 0, got: 0
+iteration: 346
+feed: 1, 1
+expected: 1, got: 0
+iteration: 347
+feed: 0, 1
+expected: 0, got: 0
+iteration: 348
+feed: 1, 1
+expected: 1, got: 0
+iteration: 349
+feed: 0, 1
+expected: 0, got: 0
+iteration: 350
+feed: 1, 1
+expected: 1, got: 0
+iteration: 351
+feed: 0, 1
+expected: 0, got: 0
+iteration: 352
+feed: 1, 0
+expected: 0, got: 0
+iteration: 353
+feed: 0, 1
+expected: 0, got: 0
+iteration: 354
+feed: 1, 0
+expected: 0, got: 0
+iteration: 355
+feed: 0, 1
+expected: 0, got: 0
+iteration: 356
+feed: 0, 0
+expected: 0, got: 0
+iteration: 357
+feed: 0, 0
+expected: 0, got: 0
+iteration: 358
+feed: 0, 1
+expected: 0, got: 0
+iteration: 359
+feed: 1, 1
+expected: 1, got: 0
+iteration: 360
+feed: 1, 1
+expected: 1, got: 0
+iteration: 361
+feed: 1, 0
+expected: 0, got: 0
+iteration: 362
+feed: 1, 1
+expected: 1, got: 0
+iteration: 363
+feed: 0, 0
+expected: 0, got: 0
+iteration: 364
+feed: 0, 1
+expected: 0, got: 0
+iteration: 365
+feed: 1, 0
+expected: 0, got: 0
+iteration: 366
+feed: 1, 0
+expected: 0, got: 0
+iteration: 367
+feed: 1, 1
+expected: 1, got: 0
+iteration: 368
+feed: 1, 0
+expected: 0, got: 0
+iteration: 369
+feed: 0, 1
+expected: 0, got: 0
+iteration: 370
+feed: 1, 1
+expected: 1, got: 0
+iteration: 371
+feed: 1, 1
+expected: 1, got: 0
+iteration: 372
+feed: 1, 0
+expected: 0, got: 0
+iteration: 373
+feed: 0, 1
+expected: 0, got: 0
+iteration: 374
+feed: 0, 1
+expected: 0, got: 0
+iteration: 375
+feed: 0, 1
+expected: 0, got: 0
+iteration: 376
+feed: 0, 1
+expected: 0, got: 0
+iteration: 377
+feed: 0, 1
+expected: 0, got: 0
+iteration: 378
+feed: 1, 0
+expected: 0, got: 0
+iteration: 379
+feed: 0, 1
+expected: 0, got: 0
+iteration: 380
+feed: 0, 0
+expected: 0, got: 0
+iteration: 381
+feed: 1, 0
+expected: 0, got: 0
+iteration: 382
+feed: 0, 0
+expected: 0, got: 0
+iteration: 383
+feed: 0, 1
+expected: 0, got: 0
+iteration: 384
+feed: 0, 0
+expected: 0, got: 0
+iteration: 385
+feed: 0, 1
+expected: 0, got: 0
+iteration: 386
+feed: 0, 0
+expected: 0, got: 0
+iteration: 387
+feed: 0, 1
+expected: 0, got: 0
+iteration: 388
+feed: 1, 0
+expected: 0, got: 0
+iteration: 389
+feed: 0, 1
+expected: 0, got: 0
+iteration: 390
+feed: 0, 0
+expected: 0, got: 0
+iteration: 391
+feed: 0, 0
+expected: 0, got: 0
+iteration: 392
+feed: 0, 0
+expected: 0, got: 0
+iteration: 393
+feed: 1, 0
+expected: 0, got: 0
+iteration: 394
+feed: 0, 1
+expected: 0, got: 0
+iteration: 395
+feed: 0, 0
+expected: 0, got: 0
+iteration: 396
+feed: 1, 1
+expected: 1, got: 0
+iteration: 397
+feed: 1, 1
+expected: 1, got: 0
+iteration: 398
+feed: 1, 0
+expected: 0, got: 0
+iteration: 399
+feed: 1, 0
+expected: 0, got: 0
+iteration: 400
+feed: 1, 1
+expected: 1, got: 0
+iteration: 401
+feed: 1, 0
+expected: 0, got: 0
+iteration: 402
+feed: 1, 1
+expected: 1, got: 0
+iteration: 403
+feed: 0, 1
+expected: 0, got: 0
+iteration: 404
+feed: 1, 1
+expected: 1, got: 0
+iteration: 405
+feed: 0, 1
+expected: 0, got: 0
+iteration: 406
+feed: 1, 1
+expected: 1, got: 0
+iteration: 407
+feed: 0, 0
+expected: 0, got: 0
+iteration: 408
+feed: 1, 1
+expected: 1, got: 0
+iteration: 409
+feed: 1, 0
+expected: 0, got: 0
+iteration: 410
+feed: 1, 1
+expected: 1, got: 0
+iteration: 411
+feed: 0, 0
+expected: 0, got: 0
+iteration: 412
+feed: 0, 0
+expected: 0, got: 0
+iteration: 413
+feed: 0, 1
+expected: 0, got: 0
+iteration: 414
+feed: 1, 1
+expected: 1, got: 0
+iteration: 415
+feed: 1, 1
+expected: 1, got: 0
+iteration: 416
+feed: 1, 1
+expected: 1, got: 0
+iteration: 417
+feed: 1, 0
+expected: 0, got: 0
+iteration: 418
+feed: 0, 0
+expected: 0, got: 0
+iteration: 419
+feed: 0, 1
+expected: 0, got: 0
+iteration: 420
+feed: 0, 0
+expected: 0, got: 0
+iteration: 421
+feed: 0, 0
+expected: 0, got: 0
+iteration: 422
+feed: 1, 0
+expected: 0, got: 0
+iteration: 423
+feed: 0, 1
+expected: 0, got: 0
+iteration: 424
+feed: 1, 1
+expected: 1, got: 0
+iteration: 425
+feed: 1, 0
+expected: 0, got: 0
+iteration: 426
+feed: 1, 1
+expected: 1, got: 0
+iteration: 427
+feed: 0, 0
+expected: 0, got: 0
+iteration: 428
+feed: 0, 0
+expected: 0, got: 0
+iteration: 429
+feed: 0, 0
+expected: 0, got: 0
+iteration: 430
+feed: 1, 1
+expected: 1, got: 0
+iteration: 431
+feed: 0, 0
+expected: 0, got: 0
+iteration: 432
+feed: 0, 0
+expected: 0, got: 0
+iteration: 433
+feed: 1, 0
+expected: 0, got: 0
+iteration: 434
+feed: 0, 1
+expected: 0, got: 0
+iteration: 435
+feed: 1, 0
+expected: 0, got: 0
+iteration: 436
+feed: 0, 0
+expected: 0, got: 0
+iteration: 437
+feed: 0, 1
+expected: 0, got: 0
+iteration: 438
+feed: 0, 1
+expected: 0, got: 0
+iteration: 439
+feed: 0, 0
+expected: 0, got: 0
+iteration: 440
+feed: 0, 1
+expected: 0, got: 0
+iteration: 441
+feed: 0, 0
+expected: 0, got: 0
+iteration: 442
+feed: 1, 1
+expected: 1, got: 0
+iteration: 443
+feed: 1, 0
+expected: 0, got: 0
+iteration: 444
+feed: 1, 1
+expected: 1, got: 0
+iteration: 445
+feed: 1, 0
+expected: 0, got: 0
+iteration: 446
+feed: 0, 0
+expected: 0, got: 0
+iteration: 447
+feed: 1, 1
+expected: 1, got: 0
+iteration: 448
+feed: 1, 1
+expected: 1, got: 0
+iteration: 449
+feed: 0, 0
+expected: 0, got: 0
+iteration: 450
+feed: 0, 0
+expected: 0, got: 0
+iteration: 451
+feed: 1, 0
+expected: 0, got: 0
+iteration: 452
+feed: 0, 1
+expected: 0, got: 0
+iteration: 453
+feed: 1, 0
+expected: 0, got: 0
+iteration: 454
+feed: 0, 1
+expected: 0, got: 0
+iteration: 455
+feed: 0, 1
+expected: 0, got: 0
+iteration: 456
+feed: 0, 1
+expected: 0, got: 0
+iteration: 457
+feed: 0, 0
+expected: 0, got: 0
+iteration: 458
+feed: 0, 1
+expected: 0, got: 0
+iteration: 459
+feed: 0, 1
+expected: 0, got: 0
+iteration: 460
+feed: 0, 0
+expected: 0, got: 0
+iteration: 461
+feed: 0, 0
+expected: 0, got: 0
+iteration: 462
+feed: 1, 1
+expected: 1, got: 0
+iteration: 463
+feed: 0, 1
+expected: 0, got: 0
+iteration: 464
+feed: 1, 0
+expected: 0, got: 0
+iteration: 465
+feed: 0, 0
+expected: 0, got: 0
+iteration: 466
+feed: 1, 1
+expected: 1, got: 0
+iteration: 467
+feed: 1, 0
+expected: 0, got: 0
+iteration: 468
+feed: 0, 0
+expected: 0, got: 0
+iteration: 469
+feed: 0, 0
+expected: 0, got: 0
+iteration: 470
+feed: 0, 1
+expected: 0, got: 0
+iteration: 471
+feed: 1, 0
+expected: 0, got: 0
+iteration: 472
+feed: 1, 0
+expected: 0, got: 0
+iteration: 473
+feed: 0, 0
+expected: 0, got: 0
+iteration: 474
+feed: 1, 1
+expected: 1, got: 0
+iteration: 475
+feed: 0, 0
+expected: 0, got: 0
+iteration: 476
+feed: 1, 1
+expected: 1, got: 0
+iteration: 477
+feed: 0, 0
+expected: 0, got: 0
+iteration: 478
+feed: 0, 1
+expected: 0, got: 0
+iteration: 479
+feed: 1, 1
+expected: 1, got: 0
+iteration: 480
+feed: 0, 0
+expected: 0, got: 0
+iteration: 481
+feed: 1, 1
+expected: 1, got: 0
+iteration: 482
+feed: 1, 1
+expected: 1, got: 0
+iteration: 483
+feed: 1, 0
+expected: 0, got: 0
+iteration: 484
+feed: 1, 0
+expected: 0, got: 0
+iteration: 485
+feed: 1, 1
+expected: 1, got: 0
+iteration: 486
+feed: 0, 1
+expected: 0, got: 0
+iteration: 487
+feed: 1, 1
+expected: 1, got: 0
+iteration: 488
+feed: 1, 1
+expected: 1, got: 0
+iteration: 489
+feed: 1, 1
+expected: 1, got: 0
+iteration: 490
+feed: 0, 1
+expected: 0, got: 0
+iteration: 491
+feed: 1, 0
+expected: 0, got: 0
+iteration: 492
+feed: 1, 0
+expected: 0, got: 0
+iteration: 493
+feed: 1, 0
+expected: 0, got: 0
+iteration: 494
+feed: 1, 0
+expected: 0, got: 0
+iteration: 495
+feed: 0, 1
+expected: 0, got: 0
+iteration: 496
+feed: 1, 0
+expected: 0, got: 0
+iteration: 497
+feed: 1, 1
+expected: 1, got: 0
+iteration: 498
+feed: 1, 1
+expected: 1, got: 0
+iteration: 499
+feed: 1, 0
+expected: 0, got: 0
+iteration: 500
+feed: 1, 1
+expected: 1, got: 0
+iteration: 501
+feed: 0, 0
+expected: 0, got: 0
+iteration: 502
+feed: 1, 0
+expected: 0, got: 0
+iteration: 503
+feed: 0, 1
+expected: 0, got: 0
+iteration: 504
+feed: 1, 1
+expected: 1, got: 0
+iteration: 505
+feed: 1, 1
+expected: 1, got: 0
+iteration: 506
+feed: 0, 1
+expected: 0, got: 0
+iteration: 507
+feed: 1, 0
+expected: 0, got: 0
+iteration: 508
+feed: 0, 1
+expected: 0, got: 0
+iteration: 509
+feed: 1, 0
+expected: 0, got: 0
+iteration: 510
+feed: 1, 0
+expected: 0, got: 0
+iteration: 511
+feed: 0, 1
+expected: 0, got: 0
+iteration: 512
+feed: 0, 1
+expected: 0, got: 0
+iteration: 513
+feed: 1, 0
+expected: 0, got: 0
+iteration: 514
+feed: 1, 0
+expected: 0, got: 0
+iteration: 515
+feed: 0, 0
+expected: 0, got: 0
+iteration: 516
+feed: 0, 1
+expected: 0, got: 0
+iteration: 517
+feed: 1, 1
+expected: 1, got: 0
+iteration: 518
+feed: 0, 1
+expected: 0, got: 0
+iteration: 519
+feed: 0, 1
+expected: 0, got: 0
+iteration: 520
+feed: 1, 0
+expected: 0, got: 0
+iteration: 521
+feed: 1, 0
+expected: 0, got: 0
+iteration: 522
+feed: 0, 0
+expected: 0, got: 0
+iteration: 523
+feed: 1, 0
+expected: 0, got: 0
+iteration: 524
+feed: 1, 0
+expected: 0, got: 0
+iteration: 525
+feed: 0, 1
+expected: 0, got: 0
+iteration: 526
+feed: 1, 0
+expected: 0, got: 0
+iteration: 527
+feed: 0, 1
+expected: 0, got: 0
+iteration: 528
+feed: 0, 1
+expected: 0, got: 0
+iteration: 529
+feed: 1, 1
+expected: 1, got: 0
+iteration: 530
+feed: 0, 0
+expected: 0, got: 0
+iteration: 531
+feed: 1, 1
+expected: 1, got: 0
+iteration: 532
+feed: 1, 1
+expected: 1, got: 0
+iteration: 533
+feed: 1, 0
+expected: 0, got: 0
+iteration: 534
+feed: 1, 1
+expected: 1, got: 0
+iteration: 535
+feed: 0, 0
+expected: 0, got: 0
+iteration: 536
+feed: 0, 1
+expected: 0, got: 0
+iteration: 537
+feed: 0, 0
+expected: 0, got: 0
+iteration: 538
+feed: 1, 1
+expected: 1, got: 0
+iteration: 539
+feed: 0, 1
+expected: 0, got: 0
+iteration: 540
+feed: 0, 0
+expected: 0, got: 0
+iteration: 541
+feed: 0, 0
+expected: 0, got: 0
+iteration: 542
+feed: 1, 1
+expected: 1, got: 0
+iteration: 543
+feed: 1, 1
+expected: 1, got: 0
+iteration: 544
+feed: 0, 0
+expected: 0, got: 0
+iteration: 545
+feed: 0, 0
+expected: 0, got: 0
+iteration: 546
+feed: 0, 1
+expected: 0, got: 0
+iteration: 547
+feed: 0, 1
+expected: 0, got: 0
+iteration: 548
+feed: 1, 0
+expected: 0, got: 0
+iteration: 549
+feed: 0, 1
+expected: 0, got: 0
+iteration: 550
+feed: 1, 1
+expected: 1, got: 0
+iteration: 551
+feed: 1, 0
+expected: 0, got: 0
+iteration: 552
+feed: 0, 0
+expected: 0, got: 0
+iteration: 553
+feed: 1, 0
+expected: 0, got: 0
+iteration: 554
+feed: 1, 1
+expected: 1, got: 0
+iteration: 555
+feed: 0, 0
+expected: 0, got: 0
+iteration: 556
+feed: 0, 1
+expected: 0, got: 0
+iteration: 557
+feed: 0, 0
+expected: 0, got: 0
+iteration: 558
+feed: 0, 1
+expected: 0, got: 0
+iteration: 559
+feed: 0, 0
+expected: 0, got: 0
+iteration: 560
+feed: 0, 1
+expected: 0, got: 0
+iteration: 561
+feed: 0, 0
+expected: 0, got: 0
+iteration: 562
+feed: 0, 0
+expected: 0, got: 0
+iteration: 563
+feed: 0, 1
+expected: 0, got: 0
+iteration: 564
+feed: 1, 1
+expected: 1, got: 0
+iteration: 565
+feed: 1, 0
+expected: 0, got: 0
+iteration: 566
+feed: 1, 0
+expected: 0, got: 0
+iteration: 567
+feed: 0, 1
+expected: 0, got: 0
+iteration: 568
+feed: 1, 0
+expected: 0, got: 0
+iteration: 569
+feed: 1, 0
+expected: 0, got: 0
+iteration: 570
+feed: 1, 1
+expected: 1, got: 0
+iteration: 571
+feed: 0, 0
+expected: 0, got: 0
+iteration: 572
+feed: 0, 0
+expected: 0, got: 0
+iteration: 573
+feed: 0, 1
+expected: 0, got: 0
+iteration: 574
+feed: 1, 0
+expected: 0, got: 0
+iteration: 575
+feed: 1, 1
+expected: 1, got: 0
+iteration: 576
+feed: 1, 0
+expected: 0, got: 0
+iteration: 577
+feed: 0, 1
+expected: 0, got: 0
+iteration: 578
+feed: 0, 0
+expected: 0, got: 0
+iteration: 579
+feed: 0, 1
+expected: 0, got: 0
+iteration: 580
+feed: 1, 1
+expected: 1, got: 0
+iteration: 581
+feed: 0, 1
+expected: 0, got: 0
+iteration: 582
+feed: 1, 0
+expected: 0, got: 0
+iteration: 583
+feed: 0, 0
+expected: 0, got: 0
+iteration: 584
+feed: 0, 1
+expected: 0, got: 0
+iteration: 585
+feed: 1, 1
+expected: 1, got: 0
+iteration: 586
+feed: 0, 1
+expected: 0, got: 0
+iteration: 587
+feed: 0, 1
+expected: 0, got: 0
+iteration: 588
+feed: 1, 0
+expected: 0, got: 0
+iteration: 589
+feed: 1, 0
+expected: 0, got: 0
+iteration: 590
+feed: 0, 0
+expected: 0, got: 0
+iteration: 591
+feed: 0, 0
+expected: 0, got: 0
+iteration: 592
+feed: 0, 1
+expected: 0, got: 0
+iteration: 593
+feed: 0, 0
+expected: 0, got: 0
+iteration: 594
+feed: 1, 0
+expected: 0, got: 0
+iteration: 595
+feed: 0, 1
+expected: 0, got: 0
+iteration: 596
+feed: 0, 1
+expected: 0, got: 0
+iteration: 597
+feed: 0, 0
+expected: 0, got: 0
+iteration: 598
+feed: 1, 1
+expected: 1, got: 0
+iteration: 599
+feed: 0, 0
+expected: 0, got: 0
+iteration: 600
+feed: 1, 0
+expected: 0, got: 0
+iteration: 601
+feed: 1, 0
+expected: 0, got: 0
+iteration: 602
+feed: 0, 1
+expected: 0, got: 0
+iteration: 603
+feed: 1, 0
+expected: 0, got: 0
+iteration: 604
+feed: 1, 1
+expected: 1, got: 0
+iteration: 605
+feed: 0, 0
+expected: 0, got: 0
+iteration: 606
+feed: 0, 1
+expected: 0, got: 0
+iteration: 607
+feed: 1, 1
+expected: 1, got: 0
+iteration: 608
+feed: 1, 0
+expected: 0, got: 0
+iteration: 609
+feed: 1, 1
+expected: 1, got: 0
+iteration: 610
+feed: 0, 0
+expected: 0, got: 0
+iteration: 611
+feed: 0, 0
+expected: 0, got: 0
+iteration: 612
+feed: 0, 1
+expected: 0, got: 0
+iteration: 613
+feed: 0, 1
+expected: 0, got: 0
+iteration: 614
+feed: 0, 1
+expected: 0, got: 0
+iteration: 615
+feed: 1, 1
+expected: 1, got: 0
+iteration: 616
+feed: 0, 1
+expected: 0, got: 0
+iteration: 617
+feed: 1, 1
+expected: 1, got: 0
+iteration: 618
+feed: 0, 0
+expected: 0, got: 0
+iteration: 619
+feed: 1, 0
+expected: 0, got: 0
+iteration: 620
+feed: 1, 1
+expected: 1, got: 0
+iteration: 621
+feed: 0, 0
+expected: 0, got: 0
+iteration: 622
+feed: 0, 0
+expected: 0, got: 0
+iteration: 623
+feed: 1, 1
+expected: 1, got: 0
+iteration: 624
+feed: 0, 1
+expected: 0, got: 0
+iteration: 625
+feed: 0, 0
+expected: 0, got: 0
+iteration: 626
+feed: 0, 0
+expected: 0, got: 0
+iteration: 627
+feed: 1, 1
+expected: 1, got: 0
+iteration: 628
+feed: 1, 1
+expected: 1, got: 0
+iteration: 629
+feed: 1, 1
+expected: 1, got: 0
+iteration: 630
+feed: 1, 0
+expected: 0, got: 0
+iteration: 631
+feed: 1, 1
+expected: 1, got: 0
+iteration: 632
+feed: 1, 0
+expected: 0, got: 0
+iteration: 633
+feed: 0, 0
+expected: 0, got: 0
+iteration: 634
+feed: 1, 0
+expected: 0, got: 0
+iteration: 635
+feed: 0, 1
+expected: 0, got: 0
+iteration: 636
+feed: 0, 1
+expected: 0, got: 0
+iteration: 637
+feed: 1, 0
+expected: 0, got: 0
+iteration: 638
+feed: 0, 1
+expected: 0, got: 0
+iteration: 639
+feed: 0, 0
+expected: 0, got: 0
+iteration: 640
+feed: 1, 0
+expected: 0, got: 0
+iteration: 641
+feed: 0, 0
+expected: 0, got: 0
+iteration: 642
+feed: 1, 0
+expected: 0, got: 0
+iteration: 643
+feed: 1, 0
+expected: 0, got: 0
+iteration: 644
+feed: 1, 1
+expected: 1, got: 0
+iteration: 645
+feed: 1, 1
+expected: 1, got: 0
+iteration: 646
+feed: 1, 0
+expected: 0, got: 0
+iteration: 647
+feed: 1, 0
+expected: 0, got: 0
+iteration: 648
+feed: 0, 0
+expected: 0, got: 0
+iteration: 649
+feed: 1, 0
+expected: 0, got: 0
+iteration: 650
+feed: 1, 0
+expected: 0, got: 0
+iteration: 651
+feed: 0, 0
+expected: 0, got: 0
+iteration: 652
+feed: 1, 0
+expected: 0, got: 0
+iteration: 653
+feed: 0, 1
+expected: 0, got: 0
+iteration: 654
+feed: 0, 1
+expected: 0, got: 0
+iteration: 655
+feed: 1, 1
+expected: 1, got: 0
+iteration: 656
+feed: 1, 0
+expected: 0, got: 0
+iteration: 657
+feed: 1, 0
+expected: 0, got: 0
+iteration: 658
+feed: 1, 1
+expected: 1, got: 0
+iteration: 659
+feed: 0, 0
+expected: 0, got: 0
+iteration: 660
+feed: 1, 1
+expected: 1, got: 0
+iteration: 661
+feed: 1, 1
+expected: 1, got: 0
+iteration: 662
+feed: 1, 1
+expected: 1, got: 0
+iteration: 663
+feed: 1, 0
+expected: 0, got: 0
+iteration: 664
+feed: 0, 1
+expected: 0, got: 0
+iteration: 665
+feed: 0, 1
+expected: 0, got: 0
+iteration: 666
+feed: 0, 1
+expected: 0, got: 0
+iteration: 667
+feed: 0, 1
+expected: 0, got: 0
+iteration: 668
+feed: 1, 0
+expected: 0, got: 0
+iteration: 669
+feed: 0, 1
+expected: 0, got: 0
+iteration: 670
+feed: 1, 0
+expected: 0, got: 0
+iteration: 671
+feed: 1, 1
+expected: 1, got: 0
+iteration: 672
+feed: 0, 1
+expected: 0, got: 0
+iteration: 673
+feed: 1, 1
+expected: 1, got: 0
+iteration: 674
+feed: 0, 0
+expected: 0, got: 0
+iteration: 675
+feed: 1, 0
+expected: 0, got: 0
+iteration: 676
+feed: 0, 0
+expected: 0, got: 0
+iteration: 677
+feed: 1, 0
+expected: 0, got: 0
+iteration: 678
+feed: 1, 1
+expected: 1, got: 0
+iteration: 679
+feed: 0, 0
+expected: 0, got: 0
+iteration: 680
+feed: 0, 0
+expected: 0, got: 0
+iteration: 681
+feed: 1, 0
+expected: 0, got: 0
+iteration: 682
+feed: 0, 0
+expected: 0, got: 0
+iteration: 683
+feed: 1, 1
+expected: 1, got: 0
+iteration: 684
+feed: 1, 1
+expected: 1, got: 0
+iteration: 685
+feed: 1, 0
+expected: 0, got: 0
+iteration: 686
+feed: 0, 0
+expected: 0, got: 0
+iteration: 687
+feed: 1, 1
+expected: 1, got: 0
+iteration: 688
+feed: 1, 0
+expected: 0, got: 0
+iteration: 689
+feed: 0, 0
+expected: 0, got: 0
+iteration: 690
+feed: 0, 1
+expected: 0, got: 0
+iteration: 691
+feed: 0, 1
+expected: 0, got: 0
+iteration: 692
+feed: 1, 1
+expected: 1, got: 0
+iteration: 693
+feed: 0, 1
+expected: 0, got: 0
+iteration: 694
+feed: 0, 1
+expected: 0, got: 0
+iteration: 695
+feed: 1, 1
+expected: 1, got: 0
+iteration: 696
+feed: 0, 0
+expected: 0, got: 0
+iteration: 697
+feed: 0, 0
+expected: 0, got: 0
+iteration: 698
+feed: 1, 1
+expected: 1, got: 0
+iteration: 699
+feed: 1, 0
+expected: 0, got: 0
+iteration: 700
+feed: 1, 1
+expected: 1, got: 0
+iteration: 701
+feed: 0, 0
+expected: 0, got: 0
+iteration: 702
+feed: 0, 0
+expected: 0, got: 0
+iteration: 703
+feed: 1, 0
+expected: 0, got: 0
+iteration: 704
+feed: 0, 1
+expected: 0, got: 0
+iteration: 705
+feed: 1, 1
+expected: 1, got: 0
+iteration: 706
+feed: 1, 1
+expected: 1, got: 0
+iteration: 707
+feed: 0, 0
+expected: 0, got: 0
+iteration: 708
+feed: 1, 1
+expected: 1, got: 0
+iteration: 709
+feed: 0, 0
+expected: 0, got: 0
+iteration: 710
+feed: 0, 0
+expected: 0, got: 0
+iteration: 711
+feed: 0, 1
+expected: 0, got: 0
+iteration: 712
+feed: 1, 1
+expected: 1, got: 0
+iteration: 713
+feed: 0, 0
+expected: 0, got: 0
+iteration: 714
+feed: 0, 0
+expected: 0, got: 0
+iteration: 715
+feed: 1, 0
+expected: 0, got: 0
+iteration: 716
+feed: 0, 1
+expected: 0, got: 0
+iteration: 717
+feed: 1, 1
+expected: 1, got: 0
+iteration: 718
+feed: 1, 0
+expected: 0, got: 0
+iteration: 719
+feed: 0, 0
+expected: 0, got: 0
+iteration: 720
+feed: 0, 0
+expected: 0, got: 0
+iteration: 721
+feed: 0, 1
+expected: 0, got: 0
+iteration: 722
+feed: 1, 0
+expected: 0, got: 0
+iteration: 723
+feed: 0, 0
+expected: 0, got: 0
+iteration: 724
+feed: 1, 1
+expected: 1, got: 0
+iteration: 725
+feed: 1, 1
+expected: 1, got: 0
+iteration: 726
+feed: 0, 0
+expected: 0, got: 0
+iteration: 727
+feed: 1, 1
+expected: 1, got: 0
+iteration: 728
+feed: 1, 1
+expected: 1, got: 0
+iteration: 729
+feed: 0, 1
+expected: 0, got: 0
+iteration: 730
+feed: 0, 0
+expected: 0, got: 0
+iteration: 731
+feed: 1, 0
+expected: 0, got: 0
+iteration: 732
+feed: 1, 1
+expected: 1, got: 0
+iteration: 733
+feed: 0, 0
+expected: 0, got: 0
+iteration: 734
+feed: 0, 1
+expected: 0, got: 0
+iteration: 735
+feed: 1, 0
+expected: 0, got: 0
+iteration: 736
+feed: 1, 1
+expected: 1, got: 0
+iteration: 737
+feed: 0, 1
+expected: 0, got: 0
+iteration: 738
+feed: 0, 1
+expected: 0, got: 0
+iteration: 739
+feed: 1, 0
+expected: 0, got: 0
+iteration: 740
+feed: 0, 1
+expected: 0, got: 0
+iteration: 741
+feed: 0, 0
+expected: 0, got: 0
+iteration: 742
+feed: 0, 1
+expected: 0, got: 0
+iteration: 743
+feed: 1, 1
+expected: 1, got: 0
+iteration: 744
+feed: 0, 0
+expected: 0, got: 0
+iteration: 745
+feed: 0, 0
+expected: 0, got: 0
+iteration: 746
+feed: 1, 0
+expected: 0, got: 0
+iteration: 747
+feed: 1, 0
+expected: 0, got: 0
+iteration: 748
+feed: 0, 0
+expected: 0, got: 0
+iteration: 749
+feed: 1, 1
+expected: 1, got: 0
+iteration: 750
+feed: 0, 0
+expected: 0, got: 0
+iteration: 751
+feed: 0, 0
+expected: 0, got: 0
+iteration: 752
+feed: 0, 0
+expected: 0, got: 0
+iteration: 753
+feed: 0, 1
+expected: 0, got: 0
+iteration: 754
+feed: 1, 0
+expected: 0, got: 0
+iteration: 755
+feed: 0, 0
+expected: 0, got: 0
+iteration: 756
+feed: 1, 0
+expected: 0, got: 0
+iteration: 757
+feed: 0, 0
+expected: 0, got: 0
+iteration: 758
+feed: 0, 1
+expected: 0, got: 0
+iteration: 759
+feed: 0, 0
+expected: 0, got: 0
+iteration: 760
+feed: 1, 0
+expected: 0, got: 0
+iteration: 761
+feed: 0, 1
+expected: 0, got: 0
+iteration: 762
+feed: 0, 0
+expected: 0, got: 0
+iteration: 763
+feed: 1, 0
+expected: 0, got: 0
+iteration: 764
+feed: 0, 1
+expected: 0, got: 0
+iteration: 765
+feed: 1, 0
+expected: 0, got: 0
+iteration: 766
+feed: 0, 0
+expected: 0, got: 0
+iteration: 767
+feed: 0, 0
+expected: 0, got: 0
+iteration: 768
+feed: 0, 1
+expected: 0, got: 0
+iteration: 769
+feed: 1, 1
+expected: 1, got: 0
+iteration: 770
+feed: 1, 1
+expected: 1, got: 0
+iteration: 771
+feed: 1, 1
+expected: 1, got: 0
+iteration: 772
+feed: 1, 1
+expected: 1, got: 0
+iteration: 773
+feed: 0, 1
+expected: 0, got: 0
+iteration: 774
+feed: 0, 0
+expected: 0, got: 0
+iteration: 775
+feed: 0, 1
+expected: 0, got: 0
+iteration: 776
+feed: 1, 1
+expected: 1, got: 0
+iteration: 777
+feed: 0, 1
+expected: 0, got: 0
+iteration: 778
+feed: 0, 0
+expected: 0, got: 0
+iteration: 779
+feed: 0, 1
+expected: 0, got: 0
+iteration: 780
+feed: 1, 1
+expected: 1, got: 0
+iteration: 781
+feed: 1, 0
+expected: 0, got: 0
+iteration: 782
+feed: 1, 1
+expected: 1, got: 0
+iteration: 783
+feed: 1, 1
+expected: 1, got: 0
+iteration: 784
+feed: 0, 0
+expected: 0, got: 0
+iteration: 785
+feed: 1, 1
+expected: 1, got: 0
+iteration: 786
+feed: 1, 0
+expected: 0, got: 0
+iteration: 787
+feed: 1, 0
+expected: 0, got: 0
+iteration: 788
+feed: 1, 0
+expected: 0, got: 0
+iteration: 789
+feed: 0, 1
+expected: 0, got: 0
+iteration: 790
+feed: 1, 1
+expected: 1, got: 0
+iteration: 791
+feed: 0, 1
+expected: 0, got: 0
+iteration: 792
+feed: 1, 1
+expected: 1, got: 0
+iteration: 793
+feed: 0, 1
+expected: 0, got: 0
+iteration: 794
+feed: 0, 1
+expected: 0, got: 0
+iteration: 795
+feed: 0, 0
+expected: 0, got: 0
+iteration: 796
+feed: 1, 1
+expected: 1, got: 0
+iteration: 797
+feed: 1, 1
+expected: 1, got: 0
+iteration: 798
+feed: 1, 0
+expected: 0, got: 0
+iteration: 799
+feed: 1, 0
+expected: 0, got: 0
+iteration: 800
+feed: 0, 1
+expected: 0, got: 0
+iteration: 801
+feed: 1, 0
+expected: 0, got: 0
+iteration: 802
+feed: 0, 1
+expected: 0, got: 0
+iteration: 803
+feed: 0, 1
+expected: 0, got: 0
+iteration: 804
+feed: 0, 0
+expected: 0, got: 0
+iteration: 805
+feed: 1, 0
+expected: 0, got: 0
+iteration: 806
+feed: 1, 0
+expected: 0, got: 0
+iteration: 807
+feed: 1, 0
+expected: 0, got: 0
+iteration: 808
+feed: 1, 1
+expected: 1, got: 0
+iteration: 809
+feed: 0, 1
+expected: 0, got: 0
+iteration: 810
+feed: 0, 1
+expected: 0, got: 0
+iteration: 811
+feed: 1, 1
+expected: 1, got: 0
+iteration: 812
+feed: 1, 1
+expected: 1, got: 0
+iteration: 813
+feed: 0, 0
+expected: 0, got: 0
+iteration: 814
+feed: 0, 1
+expected: 0, got: 0
+iteration: 815
+feed: 0, 1
+expected: 0, got: 0
+iteration: 816
+feed: 0, 0
+expected: 0, got: 0
+iteration: 817
+feed: 0, 0
+expected: 0, got: 0
+iteration: 818
+feed: 1, 1
+expected: 1, got: 0
+iteration: 819
+feed: 1, 1
+expected: 1, got: 0
+iteration: 820
+feed: 0, 1
+expected: 0, got: 0
+iteration: 821
+feed: 0, 0
+expected: 0, got: 0
+iteration: 822
+feed: 0, 1
+expected: 0, got: 0
+iteration: 823
+feed: 0, 1
+expected: 0, got: 0
+iteration: 824
+feed: 1, 0
+expected: 0, got: 0
+iteration: 825
+feed: 1, 0
+expected: 0, got: 0
+iteration: 826
+feed: 1, 0
+expected: 0, got: 0
+iteration: 827
+feed: 0, 0
+expected: 0, got: 0
+iteration: 828
+feed: 0, 1
+expected: 0, got: 0
+iteration: 829
+feed: 1, 1
+expected: 1, got: 0
+iteration: 830
+feed: 1, 0
+expected: 0, got: 0
+iteration: 831
+feed: 0, 0
+expected: 0, got: 0
+iteration: 832
+feed: 1, 1
+expected: 1, got: 0
+iteration: 833
+feed: 1, 0
+expected: 0, got: 0
+iteration: 834
+feed: 0, 0
+expected: 0, got: 0
+iteration: 835
+feed: 0, 1
+expected: 0, got: 0
+iteration: 836
+feed: 0, 0
+expected: 0, got: 0
+iteration: 837
+feed: 0, 1
+expected: 0, got: 0
+iteration: 838
+feed: 1, 0
+expected: 0, got: 0
+iteration: 839
+feed: 0, 0
+expected: 0, got: 0
+iteration: 840
+feed: 0, 0
+expected: 0, got: 0
+iteration: 841
+feed: 0, 0
+expected: 0, got: 0
+iteration: 842
+feed: 0, 0
+expected: 0, got: 0
+iteration: 843
+feed: 1, 1
+expected: 1, got: 0
+iteration: 844
+feed: 0, 0
+expected: 0, got: 0
+iteration: 845
+feed: 1, 1
+expected: 1, got: 0
+iteration: 846
+feed: 0, 1
+expected: 0, got: 0
+iteration: 847
+feed: 1, 0
+expected: 0, got: 0
+iteration: 848
+feed: 1, 0
+expected: 0, got: 0
+iteration: 849
+feed: 1, 0
+expected: 0, got: 0
+iteration: 850
+feed: 0, 0
+expected: 0, got: 0
+iteration: 851
+feed: 0, 0
+expected: 0, got: 0
+iteration: 852
+feed: 0, 0
+expected: 0, got: 0
+iteration: 853
+feed: 1, 0
+expected: 0, got: 0
+iteration: 854
+feed: 1, 1
+expected: 1, got: 0
+iteration: 855
+feed: 1, 0
+expected: 0, got: 0
+iteration: 856
+feed: 0, 1
+expected: 0, got: 0
+iteration: 857
+feed: 1, 1
+expected: 1, got: 0
+iteration: 858
+feed: 0, 0
+expected: 0, got: 0
+iteration: 859
+feed: 1, 0
+expected: 0, got: 0
+iteration: 860
+feed: 0, 1
+expected: 0, got: 0
+iteration: 861
+feed: 1, 1
+expected: 1, got: 0
+iteration: 862
+feed: 1, 0
+expected: 0, got: 0
+iteration: 863
+feed: 1, 1
+expected: 1, got: 0
+iteration: 864
+feed: 0, 0
+expected: 0, got: 0
+iteration: 865
+feed: 1, 0
+expected: 0, got: 0
+iteration: 866
+feed: 1, 1
+expected: 1, got: 0
+iteration: 867
+feed: 1, 0
+expected: 0, got: 0
+iteration: 868
+feed: 1, 1
+expected: 1, got: 0
+iteration: 869
+feed: 0, 0
+expected: 0, got: 0
+iteration: 870
+feed: 1, 1
+expected: 1, got: 0
+iteration: 871
+feed: 1, 0
+expected: 0, got: 0
+iteration: 872
+feed: 1, 0
+expected: 0, got: 0
+iteration: 873
+feed: 1, 1
+expected: 1, got: 0
+iteration: 874
+feed: 1, 0
+expected: 0, got: 0
+iteration: 875
+feed: 0, 0
+expected: 0, got: 0
+iteration: 876
+feed: 0, 0
+expected: 0, got: 0
+iteration: 877
+feed: 1, 1
+expected: 1, got: 0
+iteration: 878
+feed: 1, 0
+expected: 0, got: 0
+iteration: 879
+feed: 0, 0
+expected: 0, got: 0
+iteration: 880
+feed: 1, 1
+expected: 1, got: 0
+iteration: 881
+feed: 0, 1
+expected: 0, got: 0
+iteration: 882
+feed: 0, 1
+expected: 0, got: 0
+iteration: 883
+feed: 1, 1
+expected: 1, got: 0
+iteration: 884
+feed: 1, 1
+expected: 1, got: 0
+iteration: 885
+feed: 1, 1
+expected: 1, got: 0
+iteration: 886
+feed: 1, 1
+expected: 1, got: 0
+iteration: 887
+feed: 1, 0
+expected: 0, got: 0
+iteration: 888
+feed: 1, 0
+expected: 0, got: 0
+iteration: 889
+feed: 1, 0
+expected: 0, got: 0
+iteration: 890
+feed: 1, 1
+expected: 1, got: 0
+iteration: 891
+feed: 1, 0
+expected: 0, got: 0
+iteration: 892
+feed: 1, 0
+expected: 0, got: 0
+iteration: 893
+feed: 1, 0
+expected: 0, got: 0
+iteration: 894
+feed: 0, 0
+expected: 0, got: 0
+iteration: 895
+feed: 0, 1
+expected: 0, got: 0
+iteration: 896
+feed: 0, 1
+expected: 0, got: 0
+iteration: 897
+feed: 1, 1
+expected: 1, got: 0
+iteration: 898
+feed: 1, 1
+expected: 1, got: 0
+iteration: 899
+feed: 1, 0
+expected: 0, got: 0
+iteration: 900
+feed: 1, 0
+expected: 0, got: 0
+iteration: 901
+feed: 0, 0
+expected: 0, got: 0
+iteration: 902
+feed: 1, 0
+expected: 0, got: 0
+iteration: 903
+feed: 1, 0
+expected: 0, got: 0
+iteration: 904
+feed: 0, 1
+expected: 0, got: 0
+iteration: 905
+feed: 0, 0
+expected: 0, got: 0
+iteration: 906
+feed: 1, 1
+expected: 1, got: 0
+iteration: 907
+feed: 1, 0
+expected: 0, got: 0
+iteration: 908
+feed: 1, 1
+expected: 1, got: 0
+iteration: 909
+feed: 0, 0
+expected: 0, got: 0
+iteration: 910
+feed: 0, 1
+expected: 0, got: 0
+iteration: 911
+feed: 1, 1
+expected: 1, got: 0
+iteration: 912
+feed: 1, 1
+expected: 1, got: 0
+iteration: 913
+feed: 1, 0
+expected: 0, got: 0
+iteration: 914
+feed: 0, 0
+expected: 0, got: 0
+iteration: 915
+feed: 1, 1
+expected: 1, got: 0
+iteration: 916
+feed: 1, 0
+expected: 0, got: 0
+iteration: 917
+feed: 0, 1
+expected: 0, got: 0
+iteration: 918
+feed: 1, 1
+expected: 1, got: 0
+iteration: 919
+feed: 1, 0
+expected: 0, got: 0
+iteration: 920
+feed: 1, 0
+expected: 0, got: 0
+iteration: 921
+feed: 0, 1
+expected: 0, got: 0
+iteration: 922
+feed: 1, 0
+expected: 0, got: 0
+iteration: 923
+feed: 0, 1
+expected: 0, got: 0
+iteration: 924
+feed: 1, 1
+expected: 1, got: 0
+iteration: 925
+feed: 0, 1
+expected: 0, got: 0
+iteration: 926
+feed: 1, 0
+expected: 0, got: 0
+iteration: 927
+feed: 0, 1
+expected: 0, got: 0
+iteration: 928
+feed: 0, 0
+expected: 0, got: 0
+iteration: 929
+feed: 0, 1
+expected: 0, got: 0
+iteration: 930
+feed: 0, 1
+expected: 0, got: 0
+iteration: 931
+feed: 1, 1
+expected: 1, got: 0
+iteration: 932
+feed: 1, 1
+expected: 1, got: 0
+iteration: 933
+feed: 1, 0
+expected: 0, got: 0
+iteration: 934
+feed: 0, 0
+expected: 0, got: 0
+iteration: 935
+feed: 0, 0
+expected: 0, got: 0
+iteration: 936
+feed: 0, 0
+expected: 0, got: 0
+iteration: 937
+feed: 0, 1
+expected: 0, got: 0
+iteration: 938
+feed: 1, 1
+expected: 1, got: 0
+iteration: 939
+feed: 1, 0
+expected: 0, got: 0
+iteration: 940
+feed: 1, 1
+expected: 1, got: 0
+iteration: 941
+feed: 0, 0
+expected: 0, got: 0
+iteration: 942
+feed: 1, 1
+expected: 1, got: 0
+iteration: 943
+feed: 1, 1
+expected: 1, got: 0
+iteration: 944
+feed: 1, 0
+expected: 0, got: 0
+iteration: 945
+feed: 1, 0
+expected: 0, got: 0
+iteration: 946
+feed: 1, 1
+expected: 1, got: 0
+iteration: 947
+feed: 0, 0
+expected: 0, got: 0
+iteration: 948
+feed: 0, 1
+expected: 0, got: 0
+iteration: 949
+feed: 0, 0
+expected: 0, got: 0
+iteration: 950
+feed: 1, 1
+expected: 1, got: 0
+iteration: 951
+feed: 1, 0
+expected: 0, got: 0
+iteration: 952
+feed: 1, 0
+expected: 0, got: 0
+iteration: 953
+feed: 0, 1
+expected: 0, got: 0
+iteration: 954
+feed: 1, 1
+expected: 1, got: 0
+iteration: 955
+feed: 1, 1
+expected: 1, got: 0
+iteration: 956
+feed: 0, 0
+expected: 0, got: 0
+iteration: 957
+feed: 0, 1
+expected: 0, got: 0
+iteration: 958
+feed: 1, 0
+expected: 0, got: 0
+iteration: 959
+feed: 0, 0
+expected: 0, got: 0
+iteration: 960
+feed: 1, 1
+expected: 1, got: 0
+iteration: 961
+feed: 0, 1
+expected: 0, got: 0
+iteration: 962
+feed: 1, 0
+expected: 0, got: 0
+iteration: 963
+feed: 0, 1
+expected: 0, got: 0
+iteration: 964
+feed: 0, 0
+expected: 0, got: 0
+iteration: 965
+feed: 1, 0
+expected: 0, got: 0
+iteration: 966
+feed: 1, 0
+expected: 0, got: 0
+iteration: 967
+feed: 0, 0
+expected: 0, got: 0
+iteration: 968
+feed: 0, 1
+expected: 0, got: 0
+iteration: 969
+feed: 0, 1
+expected: 0, got: 0
+iteration: 970
+feed: 1, 0
+expected: 0, got: 0
+iteration: 971
+feed: 1, 0
+expected: 0, got: 0
+iteration: 972
+feed: 0, 0
+expected: 0, got: 0
+iteration: 973
+feed: 1, 0
+expected: 0, got: 0
+iteration: 974
+feed: 0, 1
+expected: 0, got: 0
+iteration: 975
+feed: 1, 0
+expected: 0, got: 0
+iteration: 976
+feed: 1, 1
+expected: 1, got: 0
+iteration: 977
+feed: 1, 1
+expected: 1, got: 0
+iteration: 978
+feed: 0, 0
+expected: 0, got: 0
+iteration: 979
+feed: 1, 1
+expected: 1, got: 0
+iteration: 980
+feed: 0, 1
+expected: 0, got: 0
+iteration: 981
+feed: 1, 0
+expected: 0, got: 0
+iteration: 982
+feed: 0, 0
+expected: 0, got: 0
+iteration: 983
+feed: 1, 1
+expected: 1, got: 0
+iteration: 984
+feed: 0, 1
+expected: 0, got: 0
+iteration: 985
+feed: 1, 0
+expected: 0, got: 0
+iteration: 986
+feed: 1, 0
+expected: 0, got: 0
+iteration: 987
+feed: 1, 0
+expected: 0, got: 0
+iteration: 988
+feed: 1, 0
+expected: 0, got: 0
+iteration: 989
+feed: 1, 0
+expected: 0, got: 0
+iteration: 990
+feed: 1, 0
+expected: 0, got: 0
+iteration: 991
+feed: 0, 1
+expected: 0, got: 0
+iteration: 992
+feed: 0, 1
+expected: 0, got: 0
+iteration: 993
+feed: 1, 1
+expected: 1, got: 0
+iteration: 994
+feed: 1, 0
+expected: 0, got: 0
+iteration: 995
+feed: 0, 1
+expected: 0, got: 0
+iteration: 996
+feed: 1, 0
+expected: 0, got: 0
+iteration: 997
+feed: 0, 0
+expected: 0, got: 0
+iteration: 998
+feed: 1, 0
+expected: 0, got: 0
+iteration: 999
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1000
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1001
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1002
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1003
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1004
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1005
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1006
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1007
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1008
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1009
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1010
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1011
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1012
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1013
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1014
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1015
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1016
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1017
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1018
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1019
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1020
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1021
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1022
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1023
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1024
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1025
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1026
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1027
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1028
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1029
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1030
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1031
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1032
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1033
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1034
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1035
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1036
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1037
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1038
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1039
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1040
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1041
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1042
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1043
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1044
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1045
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1046
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1047
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1048
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1049
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1050
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1051
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1052
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1053
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1054
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1055
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1056
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1057
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1058
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1059
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1060
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1061
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1062
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1063
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1064
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1065
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1066
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1067
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1068
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1069
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1070
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1071
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1072
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1073
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1074
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1075
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1076
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1077
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1078
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1079
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1080
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1081
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1082
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1083
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1084
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1085
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1086
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1087
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1088
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1089
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1090
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1091
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1092
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1093
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1094
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1095
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1096
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1097
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1098
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1099
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1100
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1101
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1102
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1103
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1104
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1105
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1106
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1107
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1108
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1109
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1110
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1111
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1112
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1113
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1114
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1115
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1116
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1117
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1118
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1119
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1120
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1121
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1122
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1123
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1124
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1125
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1126
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1127
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1128
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1129
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1130
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1131
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1132
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1133
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1134
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1135
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1136
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1137
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1138
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1139
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1140
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1141
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1142
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1143
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1144
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1145
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1146
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1147
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1148
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1149
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1150
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1151
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1152
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1153
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1154
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1155
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1156
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1157
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1158
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1159
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1160
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1161
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1162
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1163
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1164
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1165
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1166
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1167
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1168
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1169
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1170
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1171
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1172
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1173
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1174
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1175
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1176
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1177
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1178
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1179
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1180
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1181
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1182
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1183
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1184
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1185
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1186
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1187
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1188
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1189
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1190
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1191
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1192
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1193
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1194
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1195
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1196
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1197
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1198
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1199
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1200
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1201
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1202
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1203
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1204
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1205
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1206
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1207
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1208
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1209
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1210
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1211
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1212
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1213
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1214
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1215
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1216
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1217
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1218
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1219
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1220
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1221
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1222
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1223
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1224
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1225
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1226
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1227
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1228
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1229
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1230
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1231
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1232
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1233
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1234
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1235
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1236
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1237
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1238
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1239
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1240
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1241
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1242
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1243
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1244
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1245
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1246
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1247
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1248
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1249
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1250
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1251
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1252
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1253
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1254
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1255
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1256
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1257
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1258
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1259
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1260
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1261
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1262
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1263
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1264
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1265
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1266
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1267
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1268
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1269
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1270
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1271
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1272
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1273
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1274
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1275
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1276
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1277
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1278
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1279
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1280
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1281
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1282
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1283
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1284
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1285
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1286
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1287
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1288
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1289
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1290
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1291
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1292
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1293
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1294
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1295
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1296
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1297
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1298
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1299
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1300
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1301
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1302
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1303
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1304
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1305
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1306
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1307
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1308
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1309
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1310
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1311
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1312
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1313
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1314
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1315
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1316
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1317
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1318
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1319
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1320
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1321
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1322
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1323
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1324
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1325
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1326
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1327
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1328
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1329
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1330
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1331
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1332
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1333
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1334
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1335
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1336
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1337
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1338
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1339
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1340
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1341
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1342
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1343
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1344
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1345
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1346
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1347
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1348
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1349
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1350
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1351
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1352
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1353
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1354
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1355
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1356
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1357
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1358
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1359
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1360
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1361
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1362
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1363
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1364
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1365
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1366
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1367
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1368
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1369
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1370
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1371
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1372
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1373
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1374
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1375
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1376
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1377
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1378
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1379
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1380
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1381
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1382
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1383
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1384
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1385
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1386
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1387
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1388
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1389
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1390
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1391
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1392
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1393
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1394
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1395
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1396
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1397
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1398
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1399
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1400
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1401
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1402
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1403
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1404
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1405
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1406
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1407
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1408
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1409
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1410
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1411
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1412
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1413
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1414
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1415
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1416
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1417
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1418
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1419
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1420
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1421
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1422
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1423
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1424
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1425
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1426
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1427
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1428
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1429
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1430
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1431
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1432
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1433
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1434
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1435
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1436
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1437
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1438
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1439
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1440
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1441
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1442
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1443
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1444
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1445
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1446
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1447
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1448
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1449
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1450
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1451
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1452
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1453
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1454
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1455
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1456
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1457
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1458
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1459
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1460
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1461
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1462
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1463
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1464
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1465
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1466
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1467
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1468
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1469
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1470
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1471
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1472
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1473
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1474
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1475
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1476
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1477
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1478
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1479
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1480
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1481
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1482
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1483
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1484
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1485
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1486
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1487
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1488
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1489
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1490
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1491
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1492
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1493
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1494
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1495
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1496
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1497
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1498
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1499
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1500
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1501
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1502
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1503
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1504
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1505
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1506
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1507
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1508
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1509
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1510
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1511
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1512
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1513
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1514
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1515
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1516
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1517
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1518
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1519
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1520
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1521
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1522
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1523
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1524
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1525
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1526
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1527
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1528
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1529
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1530
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1531
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1532
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1533
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1534
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1535
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1536
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1537
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1538
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1539
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1540
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1541
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1542
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1543
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1544
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1545
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1546
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1547
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1548
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1549
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1550
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1551
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1552
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1553
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1554
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1555
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1556
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1557
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1558
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1559
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1560
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1561
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1562
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1563
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1564
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1565
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1566
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1567
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1568
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1569
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1570
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1571
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1572
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1573
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1574
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1575
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1576
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1577
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1578
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1579
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1580
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1581
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1582
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1583
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1584
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1585
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1586
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1587
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1588
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1589
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1590
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1591
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1592
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1593
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1594
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1595
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1596
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1597
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1598
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1599
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1600
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1601
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1602
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1603
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1604
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1605
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1606
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1607
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1608
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1609
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1610
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1611
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1612
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1613
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1614
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1615
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1616
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1617
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1618
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1619
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1620
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1621
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1622
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1623
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1624
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1625
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1626
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1627
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1628
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1629
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1630
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1631
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1632
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1633
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1634
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1635
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1636
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1637
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1638
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1639
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1640
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1641
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1642
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1643
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1644
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1645
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1646
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1647
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1648
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1649
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1650
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1651
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1652
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1653
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1654
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1655
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1656
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1657
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1658
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1659
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1660
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1661
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1662
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1663
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1664
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1665
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1666
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1667
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1668
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1669
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1670
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1671
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1672
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1673
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1674
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1675
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1676
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1677
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1678
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1679
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1680
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1681
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1682
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1683
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1684
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1685
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1686
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1687
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1688
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1689
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1690
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1691
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1692
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1693
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1694
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1695
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1696
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1697
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1698
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1699
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1700
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1701
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1702
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1703
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1704
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1705
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1706
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1707
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1708
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1709
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1710
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1711
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1712
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1713
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1714
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1715
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1716
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1717
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1718
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1719
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1720
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1721
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1722
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1723
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1724
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1725
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1726
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1727
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1728
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1729
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1730
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1731
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1732
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1733
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1734
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1735
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1736
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1737
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1738
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1739
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1740
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1741
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1742
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1743
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1744
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1745
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1746
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1747
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1748
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1749
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1750
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1751
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1752
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1753
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1754
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1755
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1756
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1757
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1758
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1759
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1760
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1761
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1762
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1763
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1764
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1765
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1766
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1767
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1768
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1769
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1770
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1771
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1772
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1773
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1774
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1775
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1776
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1777
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1778
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1779
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1780
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1781
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1782
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1783
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1784
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1785
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1786
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1787
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1788
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1789
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1790
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1791
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1792
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1793
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1794
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1795
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1796
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1797
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1798
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1799
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1800
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1801
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1802
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1803
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1804
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1805
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1806
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1807
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1808
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1809
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1810
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1811
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1812
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1813
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1814
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1815
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1816
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1817
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1818
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1819
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1820
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1821
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1822
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1823
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1824
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1825
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1826
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1827
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1828
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1829
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1830
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1831
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1832
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1833
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1834
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1835
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1836
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1837
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1838
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1839
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1840
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1841
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1842
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1843
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1844
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1845
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1846
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1847
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1848
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1849
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1850
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1851
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1852
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1853
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1854
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1855
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1856
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1857
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1858
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1859
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1860
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1861
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1862
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1863
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1864
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1865
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1866
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1867
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1868
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1869
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1870
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1871
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1872
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1873
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1874
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1875
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1876
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1877
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1878
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1879
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1880
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1881
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1882
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1883
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1884
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1885
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1886
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1887
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1888
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1889
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1890
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1891
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1892
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1893
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1894
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1895
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1896
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1897
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1898
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1899
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1900
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1901
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1902
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1903
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1904
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1905
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1906
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1907
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1908
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1909
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1910
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1911
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1912
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1913
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1914
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1915
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1916
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1917
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1918
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1919
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1920
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1921
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1922
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1923
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1924
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1925
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1926
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1927
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1928
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1929
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1930
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1931
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1932
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1933
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1934
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1935
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1936
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1937
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1938
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1939
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1940
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1941
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1942
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1943
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1944
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1945
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1946
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1947
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1948
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1949
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1950
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1951
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1952
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1953
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1954
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1955
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1956
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1957
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1958
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1959
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1960
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1961
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1962
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1963
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1964
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1965
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1966
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1967
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1968
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1969
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1970
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1971
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1972
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1973
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1974
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1975
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1976
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1977
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1978
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1979
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1980
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1981
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1982
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1983
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1984
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1985
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1986
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1987
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1988
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1989
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1990
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1991
+feed: 0, 0
+expected: 0, got: 0
+iteration: 1992
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1993
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1994
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1995
+feed: 1, 1
+expected: 1, got: 0
+iteration: 1996
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1997
+feed: 0, 1
+expected: 0, got: 0
+iteration: 1998
+feed: 1, 0
+expected: 0, got: 0
+iteration: 1999
+feed: 1, 0
+expected: 0, got: 0
+done. Exiting
