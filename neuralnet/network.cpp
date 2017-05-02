@@ -35,7 +35,7 @@ void Network::feedForward(const std::vector<net_type> &inputVals)
 	assert(inputVals.size() == m_layers.size() - 1);
 
 	for (unsigned i = 0; i < inputVals.size(); i++)
-		m_layers[0][1].setOutputVal(inputVals[i]);
+		m_layers[0][i].setOutputVal(inputVals[i]);
 
 	Layer* prevLayer;
 	for (unsigned layerNum = 1; layerNum < m_layers.size(); layerNum++)
@@ -108,6 +108,6 @@ void Network::getResoults(std::vector<net_type>& resultsVals) const
 
 		for (unsigned n  = 0; n < m_layers.back().size() - 1; n++)
 		{
-			resultsVals.push_back(n);
+			resultsVals.push_back(m_layers.back()[n].getOutputVal());
 		}
 }

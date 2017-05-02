@@ -16,8 +16,9 @@ SOURCES += main.cpp\
 	neuralnet/neuron.cpp \
 	neuralnet/network.cpp \
 
-HEADERS  += neuralnet/neuron.cpp \
-	neuralnet/network.cpp \
+HEADERS  += neuralnet/neuron.h \
+	neuralnet/network.h \
+	neuralnet/netdefines.h \
 
 FORMS    += \ 
 

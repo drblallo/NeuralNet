@@ -11,7 +11,7 @@ void train(Network &net)
 	std::default_random_engine engine;
 	std::uniform_int_distribution<int> dist(0,1);
 	std::cout.precision(4);
-	for (int a = 0; a < 2000; a++)
+	for (int a = 0; a < 5000; a++)
 	{
 			
 		std::vector<net_type> inputVals;
@@ -30,6 +30,7 @@ void train(Network &net)
 		std::cout << "iteration: " << a << std::endl;
 		std::cout << "feed: " << inputVals[0] << ", " << inputVals[1] << std::endl;
 		std::cout << "expected: " <<  (targetVales[0]) << ", got: " << resultsVals[0] << std::endl;
+		std::cout << "recent error: " << net.getRecentAverageError() << std::endl;
 	}
 
 }

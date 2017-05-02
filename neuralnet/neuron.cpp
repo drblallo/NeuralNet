@@ -10,7 +10,7 @@ double Neuron::alpha(0.5);
 Neuron::Neuron(unsigned numOutputs, unsigned index) : m_myIndex(index)
 {
 	std::default_random_engine engine;
-	std::uniform_real_distribution<float> dist(0, 1);
+	std::uniform_real_distribution<net_type> dist(0, 1);
 	for (unsigned c = 0; c < numOutputs; c++)
 	{
 		m_outputWeights.push_back(Connection());
@@ -78,11 +78,11 @@ void Neuron::updateInputWeights(Layer& prevLayer)
 		neuron = &prevLayer[n];
 		oldDeltaWeight = neuron->m_outputWeights[m_myIndex].deltaWeight;
 		newDeltaWeight =
-			eta
+			(eta
 			* neuron->getOutputVal()
-			* m_gradient
-			+ alpha
-			* oldDeltaWeight;
+			* m_gradient)
+			+ (alpha
+			* oldDeltaWeight);
 		
 		neuron->m_outputWeights[m_myIndex].deltaWeight = newDeltaWeight;
 		neuron->m_outputWeights[m_myIndex].weight += newDeltaWeight;
